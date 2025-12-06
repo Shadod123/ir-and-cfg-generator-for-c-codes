@@ -10,6 +10,7 @@ int fact(int n) {
     return ans;
 }
 
+// Test function
 int main() {
     return 0;
 }
